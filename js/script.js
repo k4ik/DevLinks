@@ -9,6 +9,7 @@ function toggleMode() {
     img.setAttribute('alt', 'mayk sorrindo, usando jaqueta e óculos escuros, com fundo roxo e azul claro');
   } else {
     img.setAttribute('src', './assets/images/avatar.png');
+    img.setAttribute('alt', 'Foto de Mayk Brito sorrindo, usando óculos e camisa preta, barba e fundo amarelo')
   }
 };
 
